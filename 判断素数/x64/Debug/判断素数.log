@@ -1,0 +1,4 @@
+﻿  test.c
+D:\代码\diary_C\判断素数\test.c(15,27): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+D:\代码\diary_C\判断素数\test.c(20,19): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+  判断素数.vcxproj -> D:\代码\diary_C\判断素数\x64\Debug\判断素数.exe
