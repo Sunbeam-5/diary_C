@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2019: 无法解析的外部符号 create，函数 main 中引用了该符号
+D:\代码\diary_C\6-2 逆序数据建立链表\x64\Debug\6-2 逆序数据建立链表.exe : fatal error LNK1120: 1 个无法解析的外部命令

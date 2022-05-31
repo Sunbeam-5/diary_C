@@ -1,0 +1,5 @@
+﻿  main.c
+D:\代码\diary_C\五子棋3\main.c(259,18): warning C4013: “getch”未定义；假设外部返回 int
+D:\代码\diary_C\五子棋3\main.c(522,48): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\代码\diary_C\五子棋3\main.c(447): warning C4716: “Base”: 必须返回一个值
+  五子棋3.vcxproj -> D:\代码\diary_C\五子棋3\x64\Debug\五子棋3.exe

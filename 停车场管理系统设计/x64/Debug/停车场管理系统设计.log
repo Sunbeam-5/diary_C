@@ -1,0 +1,10 @@
+﻿  main.c
+D:\代码\diary_C\停车场管理系统设计\main.c(87,20): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\代码\diary_C\停车场管理系统设计\main.c(103,19): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\代码\diary_C\停车场管理系统设计\main.c(138,9): warning C4101: “j”: 未引用的局部变量
+D:\代码\diary_C\停车场管理系统设计\main.c(156,9): warning C4101: “j”: 未引用的局部变量
+D:\代码\diary_C\停车场管理系统设计\main.c(207,19): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\代码\diary_C\停车场管理系统设计\main.c(224,21): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\代码\diary_C\停车场管理系统设计\main.c(225,10): warning C4101: “t2”: 未引用的局部变量
+D:\代码\diary_C\停车场管理系统设计\main.c(250,19): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+  停车场管理系统设计.vcxproj -> D:\代码\diary_C\停车场管理系统设计\x64\Debug\停车场管理系统设计.exe

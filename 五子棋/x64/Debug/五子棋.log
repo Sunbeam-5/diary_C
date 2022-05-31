@@ -1,0 +1,387 @@
+﻿  ai_algo.c
+D:\代码\diary_C\五子棋\ai_algo.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\ai_algo.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\base.h(24,6): error C2332: “enum”: 缺少标记名
+D:\代码\diary_C\五子棋\base.h(24,6): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(37,2): error C2061: 语法错误: 标识符“Point”
+D:\代码\diary_C\五子棋\base.h(38,22): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\代码\diary_C\五子棋\base.h(38,22): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(39,1): error C2059: 语法错误:“}”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2061: 语法错误: 标识符“AIChoice”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\ai_algo.h(17,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(17,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(17,42): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(19,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(19,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(19,41): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(21,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(21,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(21,31): error C2059: 语法错误:“类型”
+D:\代码\diary_C\五子棋\ai_algo.h(21,32): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(22,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(22,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(22,27): error C2059: 语法错误:“类型”
+D:\代码\diary_C\五子棋\ai_algo.h(22,46): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(23,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(23,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(23,31): error C2059: 语法错误:“类型”
+D:\代码\diary_C\五子棋\ai_algo.h(23,32): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(25,7): error C2061: 语法错误: 标识符“RandFirst”
+D:\代码\diary_C\五子棋\ai_algo.h(25,7): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\ai_algo.h(25,17): error C2059: 语法错误:“<parameter-list>”
+D:\代码\diary_C\五子棋\eval_board.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\ai_algo.c(17,8): error C2061: 语法错误: 标识符“tp”
+D:\代码\diary_C\五子棋\ai_algo.c(17,8): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\ai_algo.c(17,10): error C2059: 语法错误:“[”
+D:\代码\diary_C\五子棋\ai_algo.c(41,9): error C2065: “Choice”: 未声明的标识符
+D:\代码\diary_C\五子棋\ai_algo.c(41,9): error C2146: 语法错误: 缺少“;”(在标识符“AvaChoices”的前面)
+D:\代码\diary_C\五子棋\ai_algo.c(42,30): warning C4013: “killSearchChoices”未定义；假设外部返回 int
+D:\代码\diary_C\五子棋\ai_algo.c(48,27): error C2065: “AI_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\ai_algo.c(54,22): error C2224: “.r”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\ai_algo.c(55,22): error C2224: “.c”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\ai_algo.c(57,27): error C2065: “AI_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\ai_algo.c(60,31): error C2065: “H1_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\ai_algo.c(85,22): error C2224: “.r”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\ai_algo.c(86,22): error C2224: “.c”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\ai_algo.c(88,27): error C2065: “H1_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\ai_algo.c(91,31): error C2065: “AI_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\ai_algo.c(109,1): error C2059: 语法错误:“}”
+D:\代码\diary_C\五子棋\ai_algo.c(206,1): error C2059: 语法错误:“}”
+D:\代码\diary_C\五子棋\ai_algo.c(259,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.c(259,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.c(259,43): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.c(260,1): error C2054: 在“AvaChoices”之后应输入“(”
+D:\代码\diary_C\五子棋\ai_algo.c(298,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.c(298,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.c(298,31): error C2059: 语法错误:“类型”
+D:\代码\diary_C\五子棋\ai_algo.c(298,32): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.c(333,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.c(333,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.c(333,27): error C2059: 语法错误:“类型”
+D:\代码\diary_C\五子棋\ai_algo.c(333,46): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.c(354,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.c(354,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.c(354,31): error C2059: 语法错误:“类型”
+D:\代码\diary_C\五子棋\ai_algo.c(354,32): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.c(363,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\代码\diary_C\五子棋\ai_algo.c(384,1): error C2059: 语法错误:“}”
+  controller.c
+D:\代码\diary_C\五子棋\controller.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\controller.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\base.h(24,6): error C2332: “enum”: 缺少标记名
+D:\代码\diary_C\五子棋\base.h(24,6): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(37,2): error C2061: 语法错误: 标识符“Point”
+D:\代码\diary_C\五子棋\base.h(38,22): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\代码\diary_C\五子棋\base.h(38,22): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(39,1): error C2059: 语法错误:“}”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2061: 语法错误: 标识符“AIChoice”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\controller.h(23,14): error C2061: 语法错误: 标识符“cursor”
+D:\代码\diary_C\五子棋\controller.h(23,14): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\eval_board.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\controller.c(21,20): error C2065: “AI_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(23,20): error C2065: “H1_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(25,20): error C2065: “H2_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(27,8): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(27,9): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(28,8): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(28,9): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(29,15): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(29,16): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(29,25): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(29,26): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(29,8): error C2198: “GotoXY”: 用于调用的参数太少
+D:\代码\diary_C\五子棋\controller.c(50,9): error C2001: 常量中有换行符
+D:\代码\diary_C\五子棋\controller.c(51,2): error C2146: 语法错误: 缺少“)”(在标识符“GotoXY”的前面)
+D:\代码\diary_C\五子棋\controller.c(52,9): error C2001: 常量中有换行符
+D:\代码\diary_C\五子棋\controller.c(53,2): error C2146: 语法错误: 缺少“)”(在标识符“GotoXY”的前面)
+D:\代码\diary_C\五子棋\controller.c(54,9): error C2001: 常量中有换行符
+D:\代码\diary_C\五子棋\controller.c(55,2): error C2146: 语法错误: 缺少“)”(在标识符“GotoXY”的前面)
+D:\代码\diary_C\五子棋\controller.c(56,9): error C2001: 常量中有换行符
+D:\代码\diary_C\五子棋\controller.c(57,2): error C2146: 语法错误: 缺少“)”(在标识符“GotoXY”的前面)
+D:\代码\diary_C\五子棋\controller.c(58,9): error C2001: 常量中有换行符
+D:\代码\diary_C\五子棋\controller.c(59,2): error C2146: 语法错误: 缺少“)”(在标识符“GotoXY”的前面)
+D:\代码\diary_C\五子棋\controller.c(60,9): error C2001: 常量中有换行符
+D:\代码\diary_C\五子棋\controller.c(62,2): error C2146: 语法错误: 缺少“)”(在标识符“GotoXY”的前面)
+D:\代码\diary_C\五子棋\controller.c(63,23): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 2 拥有了类型“int”
+D:\代码\diary_C\五子棋\controller.c(63,23): message : 请考虑在格式字符串中使用“%d”
+D:\代码\diary_C\五子棋\controller.c(63,23): message : 请考虑在格式字符串中使用“%I32d”
+D:\代码\diary_C\五子棋\controller.c(65,23): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+D:\代码\diary_C\五子棋\controller.c(65,23): message : 请考虑在格式字符串中使用“%d”
+D:\代码\diary_C\五子棋\controller.c(65,23): message : 请考虑在格式字符串中使用“%I32d”
+D:\代码\diary_C\五子棋\controller.c(65,23): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 2 拥有了类型“int”
+D:\代码\diary_C\五子棋\controller.c(65,23): message : 请考虑在格式字符串中使用“%d”
+D:\代码\diary_C\五子棋\controller.c(65,23): message : 请考虑在格式字符串中使用“%I32d”
+D:\代码\diary_C\五子棋\controller.c(67,23): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+D:\代码\diary_C\五子棋\controller.c(67,23): message : 请考虑在格式字符串中使用“%d”
+D:\代码\diary_C\五子棋\controller.c(67,23): message : 请考虑在格式字符串中使用“%I32d”
+D:\代码\diary_C\五子棋\controller.c(67,23): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 2 拥有了类型“int”
+D:\代码\diary_C\五子棋\controller.c(67,23): message : 请考虑在格式字符串中使用“%d”
+D:\代码\diary_C\五子棋\controller.c(67,23): message : 请考虑在格式字符串中使用“%I32d”
+D:\代码\diary_C\五子棋\controller.c(67,23): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 3 拥有了类型“int”
+D:\代码\diary_C\五子棋\controller.c(67,23): message : 请考虑在格式字符串中使用“%d”
+D:\代码\diary_C\五子棋\controller.c(67,23): message : 请考虑在格式字符串中使用“%I32d”
+D:\代码\diary_C\五子棋\controller.c(97,21): error C2065: “AI_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(109,21): error C2065: “H2_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(128,15): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(128,16): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(129,11): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(129,12): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(131,11): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(131,12): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(135,15): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(135,16): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(136,11): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(136,12): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(138,11): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(138,12): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(142,15): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(142,16): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(143,11): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(143,12): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(145,11): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(145,12): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(149,15): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(149,16): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(150,11): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(150,12): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(152,11): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(152,12): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(156,17): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(156,18): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(156,29): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\controller.c(156,30): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\controller.c(156,8): error C2198: “GotoXY”: 用于调用的参数太少
+  eval_board.c
+D:\代码\diary_C\五子棋\eval_board.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\eval_board.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\base.h(24,6): error C2332: “enum”: 缺少标记名
+D:\代码\diary_C\五子棋\base.h(24,6): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(37,2): error C2061: 语法错误: 标识符“Point”
+D:\代码\diary_C\五子棋\base.h(38,22): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\代码\diary_C\五子棋\base.h(38,22): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(39,1): error C2059: 语法错误:“}”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2061: 语法错误: 标识符“AIChoice”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\eval_board.c(246,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(246,2): warning C4022: “memset”: 指针与实参 1 不匹配
+D:\代码\diary_C\五子棋\eval_board.c(260,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(260,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(260,20): error C2065: “M_AI_C5”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(261,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(261,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(261,20): error C2065: “M_AI_C5”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(262,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(262,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(262,20): error C2065: “M_AI_C5”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(263,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(263,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(263,20): error C2065: “M_AI_C5”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(264,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(264,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(264,20): error C2065: “M_AI_C5”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(267,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(267,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(268,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(268,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(269,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(269,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(270,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(270,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(271,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(271,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(274,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(274,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(277,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(277,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(280,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(280,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(281,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(281,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(282,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(282,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(283,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(283,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(286,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(286,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(286,20): error C2065: “M_HU_A3”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(287,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(287,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(287,20): error C2065: “M_HU_A3”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(288,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(288,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(288,20): error C2065: “M_HU_A3”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(289,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(289,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(289,20): error C2065: “M_HU_A3”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(292,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(292,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(292,20): error C2065: “M_AI_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(293,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(293,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(293,20): error C2065: “M_AI_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(294,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(294,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(294,20): error C2065: “M_AI_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(295,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(295,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(295,20): error C2065: “M_AI_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(296,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(296,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(296,20): error C2065: “M_AI_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(297,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(297,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(297,20): error C2065: “M_AI_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(300,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(300,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(300,20): error C2065: “M_HU_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(301,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(301,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(301,20): error C2065: “M_HU_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(302,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(302,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(302,20): error C2065: “M_HU_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(303,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(303,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(303,20): error C2065: “M_HU_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(304,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(304,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(304,20): error C2065: “M_HU_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(305,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(305,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(305,20): error C2065: “M_HU_A2”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(308,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(308,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(308,20): error C2065: “M_AI_A1”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(309,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(309,2): error C2109: 下标要求数组或指针类型
+D:\代码\diary_C\五子棋\eval_board.c(309,20): error C2065: “M_AI_A1”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(310,2): error C2065: “M_TABLE”: 未声明的标识符
+D:\代码\diary_C\五子棋\eval_board.c(310,2): fatal error C1003: 错误计数超过 100；正在停止编译
+  main.c
+D:\代码\diary_C\五子棋\base.h(24,6): error C2332: “enum”: 缺少标记名
+D:\代码\diary_C\五子棋\base.h(24,6): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(37,2): error C2061: 语法错误: 标识符“Point”
+D:\代码\diary_C\五子棋\base.h(38,22): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\代码\diary_C\五子棋\base.h(38,22): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(39,1): error C2059: 语法错误:“}”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2061: 语法错误: 标识符“AIChoice”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\main_game.h(15,7): error C2061: 语法错误: 标识符“AITurn”
+D:\代码\diary_C\五子棋\main_game.h(15,7): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\main_game.h(15,14): error C2059: 语法错误:“<parameter-list>”
+D:\代码\diary_C\五子棋\controller.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\controller.h(23,14): error C2061: 语法错误: 标识符“cursor”
+D:\代码\diary_C\五子棋\controller.h(23,14): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\eval_board.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main_game.c
+D:\代码\diary_C\五子棋\main_game.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\base.h(24,6): error C2332: “enum”: 缺少标记名
+D:\代码\diary_C\五子棋\base.h(24,6): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(37,2): error C2061: 语法错误: 标识符“Point”
+D:\代码\diary_C\五子棋\base.h(38,22): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\代码\diary_C\五子棋\base.h(38,22): error C2059: 语法错误:“:”
+D:\代码\diary_C\五子棋\base.h(39,1): error C2059: 语法错误:“}”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2061: 语法错误: 标识符“AIChoice”
+D:\代码\diary_C\五子棋\base.h(41,14): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\main_game.h(15,7): error C2061: 语法错误: 标识符“AITurn”
+D:\代码\diary_C\五子棋\main_game.h(15,7): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\main_game.h(15,14): error C2059: 语法错误:“<parameter-list>”
+D:\代码\diary_C\五子棋\controller.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\controller.h(23,14): error C2061: 语法错误: 标识符“cursor”
+D:\代码\diary_C\五子棋\controller.h(23,14): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\ai_algo.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\ai_algo.h(17,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(17,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(17,42): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(19,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(19,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(19,41): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(21,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(21,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(21,31): error C2059: 语法错误:“类型”
+D:\代码\diary_C\五子棋\ai_algo.h(21,32): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(22,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(22,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(22,27): error C2059: 语法错误:“类型”
+D:\代码\diary_C\五子棋\ai_algo.h(22,46): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(23,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(23,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\代码\diary_C\五子棋\ai_algo.h(23,31): error C2059: 语法错误:“类型”
+D:\代码\diary_C\五子棋\ai_algo.h(23,32): error C2059: 语法错误:“)”
+D:\代码\diary_C\五子棋\ai_algo.h(25,7): error C2061: 语法错误: 标识符“RandFirst”
+D:\代码\diary_C\五子棋\ai_algo.h(25,7): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\ai_algo.h(25,17): error C2059: 语法错误:“<parameter-list>”
+D:\代码\diary_C\五子棋\eval_board.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\代码\diary_C\五子棋\main_game.c(13,19): error C2001: 常量中有换行符
+D:\代码\diary_C\五子棋\main_game.c(14,1): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+D:\代码\diary_C\五子棋\main_game.c(14,19): error C2001: 常量中有换行符
+D:\代码\diary_C\五子棋\main_game.c(20,13): error C2061: 语法错误: 标识符“BoardCenter”
+D:\代码\diary_C\五子棋\main_game.c(20,13): error C2059: 语法错误:“;”
+D:\代码\diary_C\五子棋\main_game.c(20,25): error C2059: 语法错误:“常数”
+D:\代码\diary_C\五子棋\main_game.c(28,8): error C2065: “Point”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(28,8): error C2146: 语法错误: 缺少“;”(在标识符“NowChess”的前面)
+D:\代码\diary_C\五子棋\main_game.c(28,16): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(35,10): warning C4013: “AITurn”未定义；假设外部返回 int
+D:\代码\diary_C\五子棋\main_game.c(44,12): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(44,25): error C2065: “BoardCenter”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(46,20): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(46,21): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(46,32): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(46,33): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(46,11): error C2198: “GotoXY”: 用于调用的参数太少
+D:\代码\diary_C\五子棋\main_game.c(62,27): error C2065: “H1_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(64,14): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(64,15): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(64,25): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(64,26): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(65,14): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(65,15): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(65,25): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(65,26): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(67,25): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(67,26): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(67,37): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(67,38): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(69,36): error C2065: “DEF”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(69,36): warning C4047: “:”:“const char *”与“int”的间接级别不同
+D:\代码\diary_C\五子棋\main_game.c(71,24): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(71,25): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(71,36): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(71,37): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(71,48): error C2065: “H1_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(71,15): error C2198: “putChess”: 用于调用的参数太少
+D:\代码\diary_C\五子棋\main_game.c(72,31): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(72,32): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(72,43): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(72,44): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(72,22): error C2198: “updateChessType”: 用于调用的参数太少
+D:\代码\diary_C\五子棋\main_game.c(77,23): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(77,24): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(77,35): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(77,36): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(77,47): error C2065: “H1_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(77,14): error C2198: “Win”: 用于调用的参数太少
+D:\代码\diary_C\五子棋\main_game.c(95,25): error C2065: “AI_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(96,17): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(98,24): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(98,25): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(98,36): error C2065: “NowChess”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(98,37): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(98,48): error C2065: “AI_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(98,15): error C2198: “Win”: 用于调用的参数太少
+D:\代码\diary_C\五子棋\main_game.c(117,4): error C2181: 没有匹配 if 的非法 else
+D:\代码\diary_C\五子棋\main_game.c(123,4): error C2043: 非法 break
+D:\代码\diary_C\五子棋\main_game.c(125,1): error C2059: 语法错误:“}”
+D:\代码\diary_C\五子棋\main_game.c(172,26): error C2001: 常量中有换行符
+D:\代码\diary_C\五子棋\main_game.c(228,12): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(228,25): error C2065: “BoardCenter”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(230,20): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(230,21): error C2224: “.x”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(230,32): error C2065: “cursor”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(230,33): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\代码\diary_C\五子棋\main_game.c(230,11): error C2198: “GotoXY”: 用于调用的参数太少
+D:\代码\diary_C\五子棋\main_game.c(247,25): error C2065: “H2_CHESS”: 未声明的标识符
+D:\代码\diary_C\五子棋\main_game.c(247,25): fatal error C1003: 错误计数超过 100；正在停止编译
+  正在生成代码...

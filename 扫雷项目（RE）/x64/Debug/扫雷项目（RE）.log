@@ -1,0 +1,29 @@
+﻿  main.c
+D:\代码\diary_C\扫雷项目（RE）\main.c(425,6): warning C4101: “common_guess”: 未引用的局部变量
+D:\代码\diary_C\扫雷项目（RE）\main.c(523,5): error C2371: “makeclear”: 重定义；不同的基类型
+D:\代码\diary_C\扫雷项目（RE）\main.c(309): message : 参见“makeclear”的声明
+D:\代码\diary_C\扫雷项目（RE）\main.c(607,16): error C2198: “makeclear”: 用于调用的参数太少
+D:\代码\diary_C\扫雷项目（RE）\main.c(607,19): error C2120: 对于所有类型“void”非法
+D:\代码\diary_C\扫雷项目（RE）\main.c(678,14): error C2059: 语法错误:“类型”
+D:\代码\diary_C\扫雷项目（RE）\main.c(783,15): error C2143: 语法错误: 缺少“]”(在“类型”的前面)
+D:\代码\diary_C\扫雷项目（RE）\main.c(783,15): error C2133: “group”: 未知的大小
+D:\代码\diary_C\扫雷项目（RE）\main.c(783,15): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+D:\代码\diary_C\扫雷项目（RE）\main.c(783,17): error C2059: 语法错误:“常数”
+D:\代码\diary_C\扫雷项目（RE）\main.c(784,22): error C2143: 语法错误: 缺少“]”(在“类型”的前面)
+D:\代码\diary_C\扫雷项目（RE）\main.c(784,22): error C2133: “groupsucceed”: 未知的大小
+D:\代码\diary_C\扫雷项目（RE）\main.c(784,22): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+D:\代码\diary_C\扫雷项目（RE）\main.c(784,24): error C2059: 语法错误:“常数”
+D:\代码\diary_C\扫雷项目（RE）\main.c(785,19): error C2143: 语法错误: 缺少“]”(在“类型”的前面)
+D:\代码\diary_C\扫雷项目（RE）\main.c(785,19): error C2133: “grouptime”: 未知的大小
+D:\代码\diary_C\扫雷项目（RE）\main.c(785,19): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+D:\代码\diary_C\扫雷项目（RE）\main.c(785,21): error C2059: 语法错误:“常数”
+D:\代码\diary_C\扫雷项目（RE）\main.c(786,20): error C2143: 语法错误: 缺少“]”(在“类型”的前面)
+D:\代码\diary_C\扫雷项目（RE）\main.c(786,20): error C2133: “groupclick”: 未知的大小
+D:\代码\diary_C\扫雷项目（RE）\main.c(786,20): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+D:\代码\diary_C\扫雷项目（RE）\main.c(786,22): error C2059: 语法错误:“常数”
+D:\代码\diary_C\扫雷项目（RE）\main.c(787,17): error C2059: 语法错误:“类型”
+D:\代码\diary_C\扫雷项目（RE）\main.c(889,22): error C2059: 语法错误:“类型”
+D:\代码\diary_C\扫雷项目（RE）\main.c(908,121): error C2059: 语法错误:“类型”
+D:\代码\diary_C\扫雷项目（RE）\main.c(940,72): error C2059: 语法错误:“类型”
+D:\代码\diary_C\扫雷项目（RE）\main.c(941,71): error C2059: 语法错误:“类型”
+D:\代码\diary_C\扫雷项目（RE）\main.c(942,75): error C2059: 语法错误:“类型”

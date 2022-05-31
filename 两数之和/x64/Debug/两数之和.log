@@ -1,0 +1,4 @@
+﻿  test.c
+D:\代码\diary_C\两数之和\test.c(11,9): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\代码\diary_C\两数之和\test.c(16,8): warning C4477: “scanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 1 拥有了类型“long”
+  两数之和.vcxproj -> D:\代码\diary_C\两数之和\x64\Debug\两数之和.exe

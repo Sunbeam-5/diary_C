@@ -1,0 +1,4 @@
+﻿  main.c
+D:\代码\diary_C\五子棋4\main.c(520,48): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\代码\diary_C\五子棋4\main.c(447): warning C4716: “Base”: 必须返回一个值
+  五子棋4.vcxproj -> D:\代码\diary_C\五子棋4\x64\Debug\五子棋4.exe

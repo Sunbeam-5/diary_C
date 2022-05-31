@@ -1,0 +1,5 @@
+﻿  test.c
+D:\代码\diary_C\出圈游戏，单链表\test.c(84): warning C4716: “output”: 必须返回一个值
+D:\代码\diary_C\出圈游戏，单链表\test.c(44): error C4703: 使用了可能未初始化的本地指针变量“p”
+D:\代码\diary_C\出圈游戏，单链表\test.c(46): error C4703: 使用了可能未初始化的本地指针变量“head”
+D:\代码\diary_C\出圈游戏，单链表\test.c(40): error C4703: 使用了可能未初始化的本地指针变量“pr”
