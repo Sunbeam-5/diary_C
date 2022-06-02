@@ -1,0 +1,3 @@
+﻿  test.c
+D:\代码\diary_C\组个最小数\test.c(45,18): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+  组个最小数.vcxproj -> D:\代码\diary_C\组个最小数\x64\Debug\组个最小数.exe

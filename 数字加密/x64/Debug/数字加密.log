@@ -1,0 +1,3 @@
+﻿  test.c
+D:\代码\diary_C\数字加密\test.c(27,17): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  数字加密.vcxproj -> D:\代码\diary_C\数字加密\x64\Debug\数字加密.exe
