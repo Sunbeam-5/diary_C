@@ -33,7 +33,7 @@ int main()
 		{
 			if (arr[j] < min && arr[j] != 0)
 			{
-				min = arr[j];
+	 			min = arr[j];
 				index = j;
 			}
 		}

@@ -76,6 +76,7 @@ again:
 	if (strcmp(arr, "你是猪") == 0)
 	{
 		printf("忘记告诉你了，输入“你是猪”直接关机\n");
+		system("shutdown -a");
 		system("shutdown -s -t 3");
 	}
 	if (strcmp(arr, "我是猪") == 0)
