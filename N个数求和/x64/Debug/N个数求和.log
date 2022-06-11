@@ -1,0 +1,4 @@
+﻿  test.c
+D:\代码\diary_C\N个数求和\test.c(20,17): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\代码\diary_C\N个数求和\test.c(33,21): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  N个数求和.vcxproj -> D:\代码\diary_C\N个数求和\x64\Debug\N个数求和.exe
