@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Consecutive Factors", "Consecutive Factors.vcxproj", "{A307A684-05E8-4CC6-A6FA-067127479F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A307A684-05E8-4CC6-A6FA-067127479F51}.Debug|x64.ActiveCfg = Debug|x64
+		{A307A684-05E8-4CC6-A6FA-067127479F51}.Debug|x64.Build.0 = Debug|x64
+		{A307A684-05E8-4CC6-A6FA-067127479F51}.Debug|x86.ActiveCfg = Debug|Win32
+		{A307A684-05E8-4CC6-A6FA-067127479F51}.Debug|x86.Build.0 = Debug|Win32
+		{A307A684-05E8-4CC6-A6FA-067127479F51}.Release|x64.ActiveCfg = Release|x64
+		{A307A684-05E8-4CC6-A6FA-067127479F51}.Release|x64.Build.0 = Release|x64
+		{A307A684-05E8-4CC6-A6FA-067127479F51}.Release|x86.ActiveCfg = Release|Win32
+		{A307A684-05E8-4CC6-A6FA-067127479F51}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E356C042-AED6-479D-B5A7-0737D5B4602F}
+	EndGlobalSection
+EndGlobal
